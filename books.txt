@@ -1,0 +1,10 @@
+Gora,Rabindranath Tagore,Macmillan,1910,978-0333904771,Available
+Nirmala,Munshi Premchand,Diamond Books,1928,978-8128811982,Available
+Untouchable,Mulk Raj Anand,Penguin Books,1935,978-0143027805,Available
+Introduction to Computer Application,Ashok Arora,Vikas Publishing,2022,978-9354534317,Available
+Theory of Automata and Formal Languages,Anshu Kumar Dwivedi,Vikas Publishing,2016,978-9325984523,Available
+Multimedia Programming,Dr. Siddhartha Bhattacharyya & Dr. Paramartha Dutta,Vikas Publishing,2016,978-9325984479,Available
+Computer Fundamentals,Ashok Arora,Vikas Publishing,2015,978-9325992276,Available
+Managing Big Data,Dr. Chandrakant Naikodi,Vikas Publishing,2015,978-9325984561,Available
+A First Course in Computers,Sanjay Saxena,Vikas Publishing,2015,978-9325980822,Available
+Database Management System,Safa Hamdare & Asim Kumar Sen & Bhavesh Pandya,Vikas Publishing,2015,978-9325984370,Available
